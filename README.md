@@ -18,7 +18,7 @@
 
 Three layers work together: **time-series risk scoring**, **YOLOv8 computer vision**, and **OCR** for paper stock records. Critical alerts trigger same-day surplus redistribution through Perumda Pasar Manado and surplus-food partners.
 
-> **Pilot / demo.** The YOLOv8 model (pilot v2) is still early. The percentage shown in the app is model *confidence*, not accuracy. Interface mockups use illustrative data.
+> **Pilot / demo.** The YOLOv8 model (pilot v2) is still early. The percentage shown in the app is model *confidence*, not accuracy. 
 
 | Problem | Impact (Bersehati pilot, moderate scenario) |
 |---|---|
