@@ -1,0 +1,4 @@
+Tomat_Segar
+Tomat_Menurun
+Cabai_Segar
+Cabai_Menurun
