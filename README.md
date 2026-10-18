@@ -131,7 +131,6 @@ Produce photos were collected at Bersehati Market and annotated in YOLO format f
 </p>
 <p align="center"><i>Annotation samples: tomato (left) and chili (right)</i></p>
 
-> Full image dataset: *(add Google Drive / Hugging Face link here)*. The repository keeps only `dataset/data.yaml` and a few samples.
 
 ---
 
