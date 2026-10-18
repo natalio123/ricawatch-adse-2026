@@ -30,7 +30,7 @@ Three layers work together: **time-series risk scoring**, **YOLOv8 computer visi
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1M6SpHSmBTVHKIMyZ9SNU1Wzk9WgGmU5Q/view?usp=drive_link">
-    <img src="assets/demo_thumbnail.png" width="300" alt="RicaWatch demo video"/>
+    <img src="assets/demo_thumbnail1.png" width="300" alt="RicaWatch demo video"/>
   </a>
 </p>
 <p align="center"><i>Click the image to watch the full demo on YouTube</i></p>
