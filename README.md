@@ -129,7 +129,7 @@ Produce photos were collected at Bersehati Market and annotated in YOLO format f
   <img src="assets/annotation/sample_tomat.png" width="48%"/>
   <img src="assets/annotation/sample_cabai.png" width="48%"/>
 </p>
-<p align="center"><i>Annotation samples: tomato (left) and chili (right)</i></p>
+<p align="center"><i>Annotation samples: tomato and chili</i></p>
 
 
 ---
